@@ -1,7 +1,7 @@
 <h1 >Hi 👋, I'm Chetan Sonigra</h1>
-<h3>A Python Developer with experience in complex and business critical applications.</h3>
+<h3>A Python Developer with experience in complex and business-critical applications.</h3>
 <br>
-<h4 >I am Python Developer and Support Specialist skilled in Root Cause Analysis of complex and critical business solution. I have worked on Python, SQL Server, PostgreSQL, Oracle, POSTMAN, Azure, Azure Data Factory, Azure DevOps, Docker, Kubernetes, HTML, CSS and React. In Python, I have extensive knowledge of modules like regular expression, math, os, shutil, pathlib, requests, sys and libraries like pandas, numpy, matplotlib, beautifulsoup, Tkinter, face_recognition, and speech_recognition. I know advanced concepts like decorators, generators, OOPs and multiprocessing, multithreading, and Asyncio.<h4>
+<h4 >I am a Python Developer and Support Specialist skilled in Root Cause Analysis of complex and critical business solutions. I have worked on Python, SQL Server, PostgreSQL, Oracle, POSTMAN, Azure, Azure Data Factory, Azure DevOps, Docker, Kubernetes, HTML, CSS, and React. In Python, I have extensive knowledge of modules like regular expression, math, os, shutil, pathlib, requests, sys and libraries like pandas, numpy, matplotlib, beautifulsoup, Tkinter, face_recognition, and speech_recognition. I know advanced concepts like decorators, generators, OOPs, multiprocessing, multithreading, and Asyncio. I am also good with frameworks like Django and FastAPI.<h4>
 
 
 - 🔭 I’m currently working as **Freelance Python Developer/Support Specialist**
@@ -13,7 +13,7 @@
 | Platform | Link |
 |----------|------|
 | ![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png) | [LinkedIn](https://www.linkedin.com/in/chetansonigra/) |
-| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://x.com/chetansonigra) |
+| ![Twitter](https://img.icons8.com/color/48/000000/twitter.png) | [Twitter](https://x.com/chetan_sonigra) |
 | ![GitHub](https://img.icons8.com/color/48/000000/github.png) | [GitHub](https://github.com/chetansonigra) 
 </p>
 
