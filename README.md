@@ -1,5 +1,5 @@
 <h1 >Hi 👋, I'm Chetan Sonigra</h1>
-<h3>A Python Developer with experience in complex and business-critical applications.</h3>
+<h3>A Python Developer with experience in complex and business-critical applications.I am currently pursuing MSC in Financial Engineering from WQU.</h3>
 <br>
 <h4 >I am a Python Developer and Support Specialist skilled in Root Cause Analysis of complex and critical business solutions. I have worked on Python, SQL Server, PostgreSQL, Oracle, POSTMAN, Azure, Azure Data Factory, Azure DevOps, Docker, Kubernetes, HTML, CSS, and React. In Python, I have extensive knowledge of modules like regular expression, math, os, shutil, pathlib, requests, sys and libraries like pandas, numpy, matplotlib, beautifulsoup, Tkinter, face_recognition, and speech_recognition. I know advanced concepts like decorators, generators, OOPs, multiprocessing, multithreading, and Asyncio. I am also good with frameworks like Django and FastAPI.<h4>
 
